@@ -1,0 +1,40 @@
+.title { 
+    color: gold;
+    font-family: Helvetica;
+    font-weight: 400px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: ridge;
+    width: 350px;
+    align-items: center;
+    margin-left: 450px;
+}
+
+h1 {
+    color: gold;
+}
+
+h2 {
+    color: white;
+}
+
+body {
+    background-color: black;
+    font-family: Trebuchet MS;
+    text-align: center;
+}
+
+a {
+    background-color: white;
+    font-size: 20px;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 10px;
+    display: block;
+    margin: 10px;
+    color: black;
+    text-decoration: none;
+    
+}
